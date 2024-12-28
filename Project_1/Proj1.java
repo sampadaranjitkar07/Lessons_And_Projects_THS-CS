@@ -1,5 +1,4 @@
 import java.util.Random;
-
 /** Project 1 skeleton code.
  *  Definition: Proj1.java is a console-based, menu-driven program that contains
  *  many useful and fun methods to modify a user's text. After prompting the 
